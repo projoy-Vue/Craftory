@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+/* General Styles */
+body {
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1,
+h2,
+h3 {
+    color: #444;
+    font-weight: 700;
+}
+
+p {
+    color: #666;
+    line-height: 1.8;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.about-page {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.hero-content {
+    flex: 1;
+    padding: 20px;
+}
+
+.hero-content h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #0056b3;
+}
+
+.hero-content p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.hero-image img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    padding: 40px 20px;
+    margin: 20px auto;
+    max-width: 1200px;
+    background: #fff;
+    /* border-radius: 10px; */
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+}
+
+.craftsmanship-images {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.craftsmanship-images img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.craftsmanship-images img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.team-grid {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+.team-member {
+    text-align: center;
+}
+
+.team-member img {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.team-member img:hover {
+    transform: rotate(10deg);
+}
+
+.team-member h3 {
+    font-size: 1.2em;
+    color: #555;
+}
+
+.team-member p {
+    color: #888;
+}
+
+.cta-section a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cta-section a:hover {
+    text-decoration: underline;
+}
+.cta-section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  .cta-section p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  /* media  */
+  @media (max-width: 768px){
+    .hero-section {
+        flex-direction: column;
+        text-align: center;
+    }
+    .hero-image {
+        margin-top: 20px;
+    }
+    
+  }

@@ -1,0 +1,28 @@
+[
+    {
+      "id": 101,
+      "title": "Handcrafted Wooden Bowl",
+      "image": "https://via.placeholder.com/300x200?text=Product+1"
+    },
+    {
+      "id": 102,
+      "title": "Artisanal Glass Vase",
+      "image": "https://via.placeholder.com/300x200?text=Product+2"
+    },
+    {
+      "id": 103,
+      "title": "Knitted Woolen Hat",
+      "image": "https://via.placeholder.com/300x200?text=Product+3"
+    },
+    {
+      "id": 104,
+      "title": "Vintage Ceramic Mug",
+      "image": "https://via.placeholder.com/300x200?text=Product+4"
+    },
+    {
+      "id": 105,
+      "title": "Handwoven Cotton Scarf",
+      "image": "https://via.placeholder.com/300x200?text=Product+5"
+    }
+  ]
+  

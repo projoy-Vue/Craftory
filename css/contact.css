@@ -1,0 +1,293 @@
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1,
+h2 {
+    color: #444;
+    font-weight: bold;
+}
+
+p {
+    line-height: 1.8;
+    color: #666;
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(to right, #e0eafc, #cfdef3);
+    text-align: center;
+    padding: 60px 20px;
+    margin-bottom: 40px;
+    color: #333;
+}
+
+.hero-section h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 1.2em;
+}
+
+/* Contact Form Section Styles */
+.contact-form-section {
+    padding: 50px 20px;
+    background: #f6f6f6;
+    border-top: 2px solid #ddd;
+}
+
+.contact-form-section h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 2.5em;
+    color: #444;
+}
+
+/* Form Container */
+.contact-from-conainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Form Styles */
+#contact-form {
+    flex: 1 1 55%;
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    color: #555;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 12px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    border-color: #444;
+}
+
+.submit-btn {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+    background: #ff5722;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.submit-btn:hover {
+    background: #e64a19;
+}
+
+/* Contact Info Styles */
+.contact-info {
+    flex: 1 1 40%;
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.contact-info h2 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    color: #444;
+}
+
+.contact-info p {
+    font-size: 1em;
+    margin-bottom: 15px;
+    color: #666;
+    display: flex;
+    align-items: center;
+}
+
+.contact-info p i {
+    color: #ff5722;
+    margin-right: 10px;
+    font-size: 1.2em;
+}
+
+.working-hours {
+    margin-top: 20px;
+}
+
+.working-hours h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #444;
+}
+
+.working-hours p {
+    font-size: 1em;
+    color: #666;
+}
+
+
+
+/* Social Media Section */
+.social-media-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px 20px;
+    margin-bottom: 40px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.social-media-section .social-icons {
+    margin-top: 20px;
+}
+
+.social-media-section .social-icon {
+    font-size: 1.5em;
+    color: #0056b3;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+}
+
+.social-media-section .social-icon:hover {
+    color: #ff9900;
+}
+
+/* FAQ Section Styles */
+.faq-section {
+    padding: 40px 20px;
+    background: #f6f6f6;
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+}
+
+.faq-section h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2em;
+    color: #444;
+}
+
+.faq {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.faq-item {
+    margin-bottom: 20px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: box-shadow 0.3s;
+}
+
+.faq-item:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.faq-item h3 {
+    margin: 0;
+    padding: 15px 20px;
+    font-size: 1.2em;
+    background: #f9f9f9;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.faq-item h3::after {
+    content: "\f078";
+    /* FontAwesome down arrow */
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 0.8em;
+    transition: transform 0.3s;
+}
+
+.faq-item.open h3::after {
+    transform: rotate(180deg);
+    /* Arrow pointing up */
+}
+
+.faq-item p {
+    margin: 0;
+    padding: 15px 20px;
+    display: none;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.faq-item.open p {
+    display: block;
+}
+
+/* Map Section */
+.map-section {
+    text-align: center;
+    padding: 20px;
+}
+
+.map-section h2 {
+    margin-bottom: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero-section {
+        padding: 40px 20px;
+    }
+
+    .contact-from-conainer {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #contact-form,
+    .contact-info {
+        flex: 1 1 100%;
+    }
+
+    .social-media-section .social-icons {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .social-media-section .social-icon {
+        margin: 10px;
+    }
+}

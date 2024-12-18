@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/navbar&footer.css">
+    <link rel="stylesheet" href="../css/cart.css">
+</head>
+<body>
+    <!-- Header Placeholder -->
+    <div id="header"></div>
+
+    <!-- Shopping Cart Section -->
+    <section class="shopping-cart">
+      <div class="shop-container">
+        <!-- Cart Items Table -->
+        <div class="cart-items">
+          <table>
+            <thead>
+              <tr>
+                <th>Product</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Subtotal</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody id="cart-items-container">
+              <!-- Cart items will be dynamically inserted here -->
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Cart Totals Section -->
+        <div class="cart-totals">
+          <h3>Cart totals</h3>
+          <p>Subtotal: <span id="subtotal">$0.00</span></p>
+          <p>Shipping:
+            <select id="shipping-options">
+              <option value="0">Free shipping</option>
+              <option value="10">Flat rate: $10.00</option>
+              <option value="15">Pickup: $15.00</option>
+            </select>
+          </p>
+          <p>Total: <span id="total">$0.00</span></p>
+          <button id="proceed-checkout">Proceed to checkout</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Suggestions Section -->
+    <section class="suggestions">
+      <div class="container">
+        <h3>You might also like</h3>
+        <div id="suggested-products" class="product-grid">
+          <!-- Suggested products will be dynamically inserted here -->
+        </div>
+      </div>
+    </section>
+
+ 
+
+    <!-- Footer Placeholder -->
+    <div id="footer"></div>
+    <script src="../js/common.js"></script>
+    <script src="../js/cart.js"></script>
+</body>
+</html>

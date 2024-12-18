@@ -1,0 +1,452 @@
+[
+  {
+      "id": 1,
+      "title": "Handcrafted Ceramic Vase",
+      "price": 45.99,
+      "category": "Pottery",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Ceramic+Vase+1",
+          "https://via.placeholder.com/600x400?text=Ceramic+Vase+2",
+          "https://via.placeholder.com/600x400?text=Ceramic+Vase+3"
+      ],
+      "shortDescription": "A beautiful handcrafted ceramic vase to enhance your home decor.",
+      "description": "This vase is made with eco-friendly materials and glazed with non-toxic finishes. Perfect for fresh flowers or as a standalone decorative piece.",
+      "rating": 4.5
+  },
+  {
+      "id": 2,
+      "title": "Bohemian Beaded Necklace",
+      "price": 29.99,
+      "category": "Jewelry",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Beaded+Necklace+1",
+          "https://via.placeholder.com/600x400?text=Beaded+Necklace+2",
+          "https://via.placeholder.com/600x400?text=Beaded+Necklace+3"
+      ],
+      "shortDescription": "A vibrant bohemian necklace made with colorful beads and stones.",
+      "description": "This necklace is handcrafted by skilled artisans using ethically sourced materials. Perfect for casual and festive occasions.",
+      "rating": 4.8
+  },
+  {
+      "id": 3,
+      "title": "Rustic Wooden Serving Tray",
+      "price": 55,
+      "category": "Home Decor",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Serving+Tray+1",
+          "https://via.placeholder.com/600x400?text=Serving+Tray+2",
+          "https://via.placeholder.com/600x400?text=Serving+Tray+3"
+      ],
+      "shortDescription": "A rustic serving tray made from reclaimed wood, perfect for any occasion.",
+      "description": "Handcrafted with love, this wooden serving tray is sturdy, elegant, and sustainable. Ideal for serving drinks, snacks, or as a centerpiece on your coffee table.",
+      "rating": 4.7
+  },
+  {
+      "id": 4,
+      "title": "Handwoven Cotton Blanket",
+      "price": 89.99,
+      "category": "Textiles",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Cotton+Blanket+1",
+          "https://via.placeholder.com/600x400?text=Cotton+Blanket+2",
+          "https://via.placeholder.com/600x400?text=Cotton+Blanket+3"
+      ],
+      "shortDescription": "A cozy, handwoven cotton blanket to keep you warm and stylish.",
+      "description": "Made with 100% organic cotton, this blanket is soft, breathable, and eco-friendly. Perfect for snuggling up on the couch or adding a layer of texture to your bed.",
+      "rating": 4.9
+  },
+  {
+      "id": 5,
+      "title": "Eco-Friendly Bamboo Bowl Set",
+      "price": 35.5,
+      "category": "Kitchenware",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Bamboo+Bowl+1",
+          "https://via.placeholder.com/600x400?text=Bamboo+Bowl+2",
+          "https://via.placeholder.com/600x400?text=Bamboo+Bowl+3"
+      ],
+      "shortDescription": "A set of bamboo bowls perfect for salads, snacks, and more.",
+      "description": "Crafted from sustainable bamboo, this bowl set is lightweight, durable, and stylish. The natural finish adds a touch of elegance to your dining experience.",
+      "rating": 4.6
+  },
+  {
+      "id": 6,
+      "title": "Vintage Leather Journal",
+      "price": 49.99,
+      "category": "Stationery",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Journal+1",
+          "https://via.placeholder.com/600x400?text=Journal+2",
+          "https://via.placeholder.com/600x400?text=Journal+3"
+      ],
+      "shortDescription": "A classic leather journal for writing and jotting down ideas.",
+      "description": "Handcrafted with love, this journal is a timeless piece that adds a touch of elegance to your writing space. Perfect for personal or business use.",
+      "rating": 4.7
+  },
+  {
+      "id": 7,
+      "title": "Handwoven Cotton Scarf",
+      "price": 24.99,
+      "category": "Textiles",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Cotton+Scarf+1",
+          "https://via.placeholder.com/600x400?text=Cotton+Scarf+2",
+          "https://via.placeholder.com/600x400?text=Cotton+Scarf+3"
+      ],
+      "shortDescription": "A cozy handwoven cotton scarf for warmth and style.",
+      "description": "Made with 100% organic cotton, this scarf is soft, breathable, and eco-friendly. Perfect for snuggling up on the couch or adding a layer of texture to your bed.",
+      "rating": 4.8
+  },
+  {
+      "id": 8,
+      "title": "Handcrafted Wooden Clock",
+      "price": 72.99,
+      "category": "Home Decor",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Wooden+Clock+1",
+          "https://via.placeholder.com/600x400?text=Wooden+Clock+2",
+          "https://via.placeholder.com/600x400?text=Wooden+Clock+3"
+      ],
+      "shortDescription": "A rustic wooden wall clock to complement your home decor.",
+      "description": "This handmade wooden clock combines functionality and style. Crafted from natural wood, it brings a warm, timeless feel to any room.",
+      "rating": 4.6
+  },
+  {
+      "id": 9,
+      "title": "Artisan Handcrafted Leather Wallet",
+      "price": 55,
+      "category": "Accessories",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Leather+Wallet+1",
+          "https://via.placeholder.com/600x400?text=Leather+Wallet+2",
+          "https://via.placeholder.com/600x400?text=Leather+Wallet+3"
+      ],
+      "shortDescription": "A beautifully crafted leather wallet for everyday use.",
+      "description": "Handcrafted with premium leather, this wallet features a minimalist design and plenty of space for cards and cash.",
+      "rating": 4.7
+  },
+  {
+      "id": 10,
+      "title": "Handmade Ceramic Coffee Mug",
+      "price": 18.99,
+      "category": "Kitchenware",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Ceramic+Mug+1",
+          "https://via.placeholder.com/600x400?text=Ceramic+Mug+2",
+          "https://via.placeholder.com/600x400?text=Ceramic+Mug+3"
+      ],
+      "shortDescription": "A charming, handmade ceramic mug for your morning coffee.",
+      "description": "This handcrafted ceramic mug is perfect for sipping your favorite hot beverages. Made with high-quality clay and finished with a smooth glaze.",
+      "rating": 4.5
+  },
+  {
+      "id": 11,
+      "title": "Woven Jute Rug",
+      "price": 89.99,
+      "category": "Home Decor",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Jute+Rug+1",
+          "https://via.placeholder.com/600x400?text=Jute+Rug+2",
+          "https://via.placeholder.com/600x400?text=Jute+Rug+3"
+      ],
+      "shortDescription": "A durable and eco-friendly woven jute rug for your home.",
+      "description": "Handwoven from natural jute fibers, this rug is soft, sturdy, and perfect for adding texture and warmth to your space.",
+      "rating": 4.6
+  },
+  {
+      "id": 12,
+      "title": "Reclaimed Wood Bookshelf",
+      "price": 159.99,
+      "category": "Furniture",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Wood+Bookshelf+1",
+          "https://via.placeholder.com/600x400?text=Wood+Bookshelf+2",
+          "https://via.placeholder.com/600x400?text=Wood+Bookshelf+3"
+      ],
+      "shortDescription": "A stylish bookshelf made from reclaimed wood.",
+      "description": "This rustic bookshelf is crafted from sustainably sourced reclaimed wood, offering a vintage charm to your living room or study.",
+      "rating": 4.8
+  },
+  {
+      "id": 13,
+      "title": "Handcrafted Wool Throw Pillow",
+      "price": 34.99,
+      "category": "Textiles",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Wool+Pillow+1",
+          "https://via.placeholder.com/600x400?text=Wool+Pillow+2",
+          "https://via.placeholder.com/600x400?text=Wool+Pillow+3"
+      ],
+      "shortDescription": "A luxurious, handcrafted wool throw pillow.",
+      "description": "Made with 100% organic wool, this pillow is soft, durable, and adds a cozy touch to any room in your home.",
+      "rating": 4.9
+  },
+  {
+      "id": 14,
+      "title": "Sustainable Wooden Sunglasses",
+      "price": 49.99,
+      "category": "Accessories",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Wooden+Sunglasses+1",
+          "https://via.placeholder.com/600x400?text=Wooden+Sunglasses+2",
+          "https://via.placeholder.com/600x400?text=Wooden+Sunglasses+3"
+      ],
+      "shortDescription": "Stylish sunglasses made from sustainable wood.",
+      "description": "These eco-friendly sunglasses are crafted from sustainably sourced wood, offering a unique look while protecting your eyes from the sun.",
+      "rating": 4.6
+  },
+  {
+      "id": 15,
+      "title": "Handmade Ceramic Plate Set",
+      "price": 59.99,
+      "category": "Kitchenware",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Ceramic+Plate+Set+1",
+          "https://via.placeholder.com/600x400?text=Ceramic+Plate+Set+2",
+          "https://via.placeholder.com/600x400?text=Ceramic+Plate+Set+3"
+      ],
+      "shortDescription": "A set of handcrafted ceramic plates for your dining table.",
+      "description": "These handmade ceramic plates are designed for everyday use. Their unique glaze patterns bring beauty to your table.",
+      "rating": 4.7
+  },
+  {
+      "id": 16,
+      "title": "Recycled Glass Tumblers",
+      "price": 24.99,
+      "category": "Kitchenware",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Glass+Tumblers+1",
+          "https://via.placeholder.com/600x400?text=Glass+Tumblers+2",
+          "https://via.placeholder.com/600x400?text=Glass+Tumblers+3"
+      ],
+      "shortDescription": "Set of eco-friendly recycled glass tumblers.",
+      "description": "These tumblers are made from 100% recycled glass, offering both elegance and sustainability to your drinkware collection.",
+      "rating": 4.5
+  },
+  {
+      "id": 17,
+      "title": "Bohemian Macrame Wall Hanging",
+      "price": 39.99,
+      "category": "Home Decor",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Macrame+Wall+Hanging+1",
+          "https://via.placeholder.com/600x400?text=Macrame+Wall+Hanging+2",
+          "https://via.placeholder.com/600x400?text=Macrame+Wall+Hanging+3"
+      ],
+      "shortDescription": "A handcrafted macrame wall hanging for a bohemian vibe.",
+      "description": "This intricate macrame piece is perfect for adding texture and style to your walls. Made with natural cotton rope.",
+      "rating": 4.7
+  },
+  {
+      "id": 18,
+      "title": "Luxury Aromatherapy Candle Set",
+      "price": 34.99,
+      "category": "Home Decor",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Aromatherapy+Candle+1",
+          "https://via.placeholder.com/600x400?text=Aromatherapy+Candle+2",
+          "https://via.placeholder.com/600x400?text=Aromatherapy+Candle+3"
+      ],
+      "shortDescription": "A set of luxury candles designed to enhance relaxation.",
+      "description": "Infused with essential oils, these candles create a calming atmosphere. Made from natural soy wax and packaged in elegant glass containers.",
+      "rating": 4.9
+  },
+  {
+      "id": 19,
+      "title": "Handcrafted Wooden Pen Set",
+      "price": 29.99,
+      "category": "Stationery",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Wooden+Pen+Set+1",
+          "https://via.placeholder.com/600x400?text=Wooden+Pen+Set+2",
+          "https://via.placeholder.com/600x400?text=Wooden+Pen+Set+3"
+      ],
+      "shortDescription": "A refined wooden pen set for writing enthusiasts.",
+      "description": "These pens are handmade from high-quality wood and come in a stylish box. A perfect gift for writers and professionals.",
+      "rating": 4.7
+  },
+  {
+      "id": 20,
+      "title": "Vintage Brass Pendant Light",
+      "price": 89.99,
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Brass+Pendant+Light+1",
+          "https://via.placeholder.com/600x400?text=Brass+Pendant+Light+2",
+          "https://via.placeholder.com/600x400?text=Brass+Pendant+Light+3"
+      ],
+      "shortDescription": "A vintage brass pendant light to illuminate your space.",
+      "description": "This pendant light features a timeless brass finish that enhances the ambiance of any room. Ideal for living rooms, kitchens, or dining areas.",
+      "rating": 4.8
+  },
+  {
+      "id": 21,
+      "title": "Handmade Leather Backpack",
+      "price": 129.99,
+      "category": "Accessories",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Leather+Backpack+1",
+          "https://via.placeholder.com/600x400?text=Leather+Backpack+2",
+          "https://via.placeholder.com/600x400?text=Leather+Backpack+3"
+      ],
+      "shortDescription": "A stylish and durable handcrafted leather backpack.",
+      "description": "This high-quality leather backpack is perfect for daily use, with plenty of room for your essentials. The rich leather texture develops a unique patina over time.",
+      "rating": 4.8
+  },
+  {
+      "id": 22,
+      "title": "Organic Cotton Hand Towels",
+      "price": 19.99,
+      "category": "Textiles",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Hand+Towels+1",
+          "https://via.placeholder.com/600x400?text=Hand+Towels+2",
+          "https://via.placeholder.com/600x400?text=Hand+Towels+3"
+      ],
+      "shortDescription": "A set of soft and absorbent organic cotton hand towels.",
+      "description": "Made with 100% organic cotton, these hand towels are gentle on your skin and ideal for everyday use in the bathroom or kitchen.",
+      "rating": 4.6
+  },
+  {
+      "id": 23,
+      "title": "Eco-Friendly Bamboo Toothbrush Set",
+      "price": 15.99,
+      "category": "Personal Care",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Bamboo+Toothbrush+1",
+          "https://via.placeholder.com/600x400?text=Bamboo+Toothbrush+2",
+          "https://via.placeholder.com/600x400?text=Bamboo+Toothbrush+3"
+      ],
+      "shortDescription": "A sustainable bamboo toothbrush set to reduce plastic waste.",
+      "description": "This set of eco-friendly bamboo toothbrushes is perfect for a sustainable oral care routine. The biodegradable handle and soft bristles ensure a gentle clean.",
+      "rating": 4.7
+  },
+  {
+      "id": 24,
+      "title": "Handcrafted Wooden Cutting Board",
+      "price": 49.99,
+      "category": "Kitchenware",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Wooden+Cutting+Board+1",
+          "https://via.placeholder.com/600x400?text=Wooden+Cutting+Board+2",
+          "https://via.placeholder.com/600x400?text=Wooden+Cutting+Board+3"
+      ],
+      "shortDescription": "A premium, handcrafted wooden cutting board.",
+      "description": "Crafted from high-quality hardwood, this cutting board is durable, functional, and perfect for all your kitchen tasks. Its elegant design also makes it ideal for serving.",
+      "rating": 4.9
+  },
+  {
+      "id": 25,
+      "title": "Handmade Wool Felt Slippers",
+      "price": 39.99,
+      "category": "Footwear",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Felt+Slippers+1",
+          "https://via.placeholder.com/600x400?text=Felt+Slippers+2",
+          "https://via.placeholder.com/600x400?text=Felt+Slippers+3"
+      ],
+      "shortDescription": "Cozy handmade wool felt slippers for warmth and comfort.",
+      "description": "These slippers are made with soft wool felt, keeping your feet warm and cozy during the colder months. The natural materials ensure comfort and breathability.",
+      "rating": 4.6
+  },
+  {
+      "id": 26,
+      "title": "Vintage Industrial Desk Lamp",
+      "price": 59.99,
+      "category": "Lighting",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Industrial+Lamp+1",
+          "https://via.placeholder.com/600x400?text=Industrial+Lamp+2",
+          "https://via.placeholder.com/600x400?text=Industrial+Lamp+3"
+      ],
+      "shortDescription": "A stylish vintage industrial desk lamp with adjustable arm.",
+      "description": "This industrial-style desk lamp features a sleek, adjustable arm that lets you direct light where you need it most. Perfect for any workspace or home office.",
+      "rating": 4.7
+  },
+  {
+      "id": 27,
+      "title": "Bamboo Charcoal Pillow",
+      "price": 49.99,
+      "category": "Bedding",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Charcoal+Pillow+1",
+          "https://via.placeholder.com/600x400?text=Charcoal+Pillow+2",
+          "https://via.placeholder.com/600x400?text=Charcoal+Pillow+3"
+      ],
+      "shortDescription": "A pillow infused with bamboo charcoal for better sleep.",
+      "description": "The bamboo charcoal in this pillow helps to regulate temperature and reduce odors, providing a cleaner, more comfortable sleep experience.",
+      "rating": 4.8
+  },
+  {
+      "id": 28,
+      "title": "Organic Tea Sampler Set",
+      "price": 29.99,
+      "category": "Food & Beverage",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Tea+Sampler+1",
+          "https://via.placeholder.com/600x400?text=Tea+Sampler+2",
+          "https://via.placeholder.com/600x400?text=Tea+Sampler+3"
+      ],
+      "shortDescription": "A set of organic teas for every taste and mood.",
+      "description": "This sampler set includes a variety of organic loose-leaf teas, perfect for exploring new flavors and enjoying a calming cup of tea anytime.",
+      "rating": 4.7
+  },
+  {
+      "id": 29,
+      "title": "Artisanal Olive Oil Set",
+      "price": 45,
+      "category": "Food & Beverage",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Olive+Oil+Set+1",
+          "https://via.placeholder.com/600x400?text=Olive+Oil+Set+2",
+          "https://via.placeholder.com/600x400?text=Olive+Oil+Set+3"
+      ],
+      "shortDescription": "A set of premium artisanal olive oils from Mediterranean orchards.",
+      "description": "This olive oil set includes various flavors, perfect for cooking, dipping, or enhancing your salads and pasta dishes.",
+      "rating": 4.8
+  },
+  {
+      "id": 30,
+      "title": "Handcrafted Glass Terrarium",
+      "price": 39.99,
+      "category": "Home Decor",
+      "image": "https://via.placeholder.com/250",
+      "images": [
+          "https://via.placeholder.com/600x400?text=Glass+Terrarium+1",
+          "https://via.placeholder.com/600x400?text=Glass+Terrarium+2",
+          "https://via.placeholder.com/600x400?text=Glass+Terrarium+3"
+      ],
+      "shortDescription": "A beautifully crafted glass terrarium for your plants.",
+      "description": "This geometric glass terrarium is the perfect home for succulents or air plants. It adds a touch of greenery and modern style to any room.",
+      "rating": 4.6
+  }
+]
